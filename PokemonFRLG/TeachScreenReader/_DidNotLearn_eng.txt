@@ -1,0 +1,2 @@
+party_text
+did_not_learn
