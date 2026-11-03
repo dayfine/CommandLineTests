@@ -1,0 +1,7 @@
+known_moves
+bite
+tail-whip
+bubble
+withdraw
+water-pulse
+1
