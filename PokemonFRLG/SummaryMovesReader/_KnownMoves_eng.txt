@@ -1,0 +1,14 @@
+moves
+water-gun
+25
+25
+tail-whip
+30
+30
+bubble
+30
+30
+withdraw
+40
+40
+none

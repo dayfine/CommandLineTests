@@ -1,0 +1,6 @@
+potion
+5
+antidote
+3
+parlyz-heal
+1
