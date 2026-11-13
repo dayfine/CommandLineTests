@@ -1,0 +1,6 @@
+ultra-ball
+great-ball
+super-potion
+revive
+full-heal
+max-repel
