@@ -1,2 +1,0 @@
-party_text
-knows_four

@@ -1,5 +1,0 @@
-poke-ball
-potion
-antidote
-parlyz-heal
-cancel

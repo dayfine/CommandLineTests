@@ -1,2 +1,0 @@
-party_text
-which_move

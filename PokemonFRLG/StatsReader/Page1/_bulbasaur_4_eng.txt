@@ -1,4 +1,0 @@
-bulbasaur
-5
-male
-Adamant

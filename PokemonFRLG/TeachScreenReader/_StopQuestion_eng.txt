@@ -1,3 +1,0 @@
-party_yes_no
-1
-stop_question
