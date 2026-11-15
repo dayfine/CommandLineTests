@@ -1,0 +1,14 @@
+moves
+sand-attack
+15
+15
+gust
+35
+35
+quick-attack
+30
+30
+whirlwind
+20
+20
+none
